@@ -38,8 +38,10 @@ class ViewController: UIViewController {
     func awesomeFeatureQ() {
         println("I like to code lots cause i'm cool!")
         var i = 0
+        //This is completely USELESS!
         while (i < 100) {
-            println("Ryan is awesome")
+            println("Ryan is THE AWESOMEST!")
+            println("No, really.")
             i++
         }
     }
