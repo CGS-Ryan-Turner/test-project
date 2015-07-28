@@ -34,6 +34,20 @@ class ViewController: UIViewController {
             println(i)
         }
     }
+<<<<<<< HEAD
     //Test line 1
+=======
+    
+    func awesomeFeatureQ() {
+        println("I like to code lots cause i'm cool!")
+        var i = 0
+        //This is completely USELESS!
+        while (i < 100) {
+            println("Ryan is THE AWESOMEST!")
+            println("No, really.")
+            i++
+        }
+    }
+>>>>>>> feature-q
 }
 
