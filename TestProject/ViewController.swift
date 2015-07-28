@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         }
     }
     
+<<<<<<< HEAD
     func awesomeFeatureQ() {
         println("I like to code lots cause i'm cool!")
         var i = 0
@@ -47,5 +48,8 @@ class ViewController: UIViewController {
     }
     //Some random lines for testing purposes
     
+=======
+    //Testing line 1... COMPLETE
+>>>>>>> testBranch1
 }
 
