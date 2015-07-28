@@ -34,6 +34,7 @@ class ViewController: UIViewController {
             println(i)
         }
     }
+<<<<<<< HEAD
     
 <<<<<<< HEAD
     func awesomeFeatureQ() {
@@ -51,5 +52,8 @@ class ViewController: UIViewController {
 =======
     //Testing line 1... COMPLETE
 >>>>>>> testBranch1
+=======
+    //Test line 2... Complete.
+>>>>>>> testBranch2
 }
 
