@@ -34,9 +34,6 @@ class ViewController: UIViewController {
             println(i)
         }
     }
-<<<<<<< HEAD
-    //Test line 1
-=======
     
     func awesomeFeatureQ() {
         println("I like to code lots cause i'm cool!")
@@ -48,6 +45,7 @@ class ViewController: UIViewController {
             i++
         }
     }
->>>>>>> feature-q
+    //Some random lines for testing purposes
+    
 }
 
