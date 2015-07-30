@@ -13,6 +13,7 @@
 		8710DDFD1B5DE4D000C2782D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8710DDFC1B5DE4D000C2782D /* Images.xcassets */; };
 		8710DE001B5DE4D000C2782D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8710DDFE1B5DE4D000C2782D /* LaunchScreen.xib */; };
 		8710DE0C1B5DE4D000C2782D /* TestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8710DE0B1B5DE4D000C2782D /* TestProjectTests.swift */; };
+		87C42CFF1B69E7C000673066 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87C42CFE1B69E7C000673066 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		8710DE051B5DE4D000C2782D /* TestProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8710DE0A1B5DE4D000C2782D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8710DE0B1B5DE4D000C2782D /* TestProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestProjectTests.swift; sourceTree = "<group>"; };
+		87C42CFE1B69E7C000673066 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		8710DDF21B5DE4D000C2782D /* TestProject */ = {
 			isa = PBXGroup;
 			children = (
+				87C42CFE1B69E7C000673066 /* SecondViewController.swift */,
 				8710DDF51B5DE4D000C2782D /* AppDelegate.swift */,
 				8710DDF71B5DE4D000C2782D /* ViewController.swift */,
 				8710DDF91B5DE4D000C2782D /* Main.storyboard */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87C42CFF1B69E7C000673066 /* SecondViewController.swift in Sources */,
 				8710DDF81B5DE4D000C2782D /* ViewController.swift in Sources */,
 				8710DDF61B5DE4D000C2782D /* AppDelegate.swift in Sources */,
 			);
@@ -409,6 +413,7 @@
 				8710DE111B5DE4D000C2782D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8710DE121B5DE4D000C2782D /* Build configuration list for PBXNativeTarget "TestProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				8710DE141B5DE4D000C2782D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
