@@ -34,7 +34,11 @@ class ViewController: UIViewController {
             println(i)
         }
     }
+<<<<<<< HEAD
     func awesomeFeatureR() {
+=======
+    func awesomeFeatureZ() {
+>>>>>>> feature-k
         println("I like to code lots cause i'm cool!")
         var i = 0
         //This is completely USELESS!
